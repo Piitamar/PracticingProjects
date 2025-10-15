@@ -31,11 +31,11 @@ class NoteManager:
         for note in self.notes:
             print (note)
 
-note1= Note('Hôm nay trPời mưa')
+'''note1= Note('Hôm nay trời mưa')
 note2= Note('Hôm nay mình buồn')
 
 notemanager1= NoteManager()
 for note in [note1, note2]:
     notemanager1.add_note(note)
-notemanager1.printlist()
+notemanager1.printlist()'''
 
